@@ -4,11 +4,12 @@ If you want to support my work, feel free to buy me a coffee on Ko-fi. Your supp
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O517FXQ2)
 
-📫 How to reach me: You can reach me via Linkedin https://www.linkedin.com/in/marinaramirofde/ or email at marinaramirofde@gmail.com for collaborations or inquiries.
-
 🔭 The technologies and tools I love working with include:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,unity,unreal,cs,html,css,js,java,python,bootstrap,blender,git,vscode,visualstudio,eclipse,linkedin,instagram,gmail,discord" />
+    <img src="https://skillicons.dev/icons?i=github,unity,unreal,cs,html,css,js,java,python,bootstrap,blender,git,vscode,visualstudio,eclipse,
+      linkedin,instagram,gmail,discord" />
   </a>
 </p>
+
+📫 How to reach me: Via Linkedin https://www.linkedin.com/in/marinaramirofde/ or email at marinaramirofde@gmail.com for collaborations or inquiries.
