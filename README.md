@@ -1,25 +1,12 @@
-## Hello 👋
-
-<!--
-**marinaramirofde/marinaramirofde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+## Hello 👋 I am Marina Ramiro, a computer engineer and VR developer with a passion for creating innovative and fun projects. I love bringing creative ideas to life through technology, whether it's building immersive apps or experimenting with new digital experiences. When I'm not coding, you can find me creating content, enjoying time with my family, exploring nature, or playing sports. If you want to support my work, feel free to buy me a coffee on Ko-fi. Your support means a lot!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O517FXQ2)
 
+📫 How to reach me: You can reach me via Linkedin https://www.linkedin.com/in/marinaramirofde/ or email at marinaramirofde@gmail.com for collaborations or inquiries.
+
+🔭 The technologies and tools I love working with include:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,unity,unreal,cs,html,css,js,java,python,bootstrap,blender,git,vscode,visualstudio,eclipse,linkedin,instagram,gmail,discord" />
   </a>
 </p>
