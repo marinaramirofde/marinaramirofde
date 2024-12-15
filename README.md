@@ -1,10 +1,7 @@
 ## Hello 👋 I am Marina Ramiro, a computer engineer and VR developer with a passion for creating innovative and fun projects. I love bringing creative ideas to life through technology, whether it's building immersive apps or experimenting with new digital experiences. When I'm not coding, you can find me creating content, enjoying time with my family, exploring nature, or playing sports. 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O517FXQ2)
 If you want to support my work, feel free to buy me a coffee on Ko-fi. Your support means a lot!
-<a href="https://ko-fi.com/O4O517FXQ2" target="_blank">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O517FXQ2)
 
 📫 How to reach me: You can reach me via Linkedin https://www.linkedin.com/in/marinaramirofde/ or email at marinaramirofde@gmail.com for collaborations or inquiries.
 
