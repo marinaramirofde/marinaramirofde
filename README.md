@@ -7,8 +7,7 @@ If you want to support my work, feel free to buy me a coffee on Ko-fi. Your supp
 🔭 The technologies and tools I love working with include:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,unity,unreal,cs,html,css,js,java,python,bootstrap,blender,git,vscode,visualstudio,eclipse,
-      linkedin,instagram,gmail,discord" />
+    <img src="https://skillicons.dev/icons?i=github,unity,unreal,cs,html,css,js,java,python,bootstrap,blender,git,vscode,visualstudio,eclipse,linkedin,instagram,gmail,discord" />
   </a>
 </p>
 
