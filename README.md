@@ -11,6 +11,12 @@ If you want to support my work, feel free to buy me a coffee on Ko-fi. Your supp
   </a>
 </p>
 
-📫 How to reach me: Via Linkedin https://www.linkedin.com/in/marinaramirofde/ or email at marinaramirofde@gmail.com for collaborations or inquiries.
+📫 How to reach me: 
+- **LinkedIn**: <a href="https://www.linkedin.com/in/marinaramirofde/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=flat&logo=linkedin" alt="Follow me on LinkedIn"></a>
+- **Email**: marinaramirofde@gmail.com for collaborations or inquiries.
+
+**Visualizations:** 
+<img src="https://img.shields.io/badge/Views-1K%2B-blue?style=flat&logo=linkedin" alt="LinkedIn Profile Views">
 
 My VR project: https://youtu.be/TLWXkF8STxI?si=qFpijlGVDhBqOj5A (VREHABILITAR)
