@@ -1,5 +1,5 @@
-/* ![Profile views](https://komarev.com/ghpvc/?username=marinaramirofde&color=blueviolet&style=flat-square) */
 
+<img src="https://img.shields.io/badge/Views-1K%2B-blue?style=flat&logo=linkedin" alt="Profile Views">
 
 ## Hello 👋 I am Marina Ramiro, a computer engineer and VR developer with a passion for creating innovative and fun projects. I love bringing creative ideas to life through technology, whether it's building immersive apps or experimenting with new digital experiences. When I'm not coding, you can find me creating content, enjoying time with my family, exploring nature, or playing sports. 
 
