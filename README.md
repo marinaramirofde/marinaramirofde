@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=marinaramirofde&color=blueviolet&style=flat-square)
+
+
 ## Hello 👋 I am Marina Ramiro, a computer engineer and VR developer with a passion for creating innovative and fun projects. I love bringing creative ideas to life through technology, whether it's building immersive apps or experimenting with new digital experiences. When I'm not coding, you can find me creating content, enjoying time with my family, exploring nature, or playing sports. 
 
 If you want to support my work, feel free to buy me a coffee on Ko-fi. Your support means a lot!
@@ -16,7 +19,5 @@ If you want to support my work, feel free to buy me a coffee on Ko-fi. Your supp
   <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?style=flat&logo=linkedin" alt="Follow me on LinkedIn"></a>
 - **Email**: marinaramirofde@gmail.com for collaborations or inquiries.
 
-**Visualizations:** 
-<img src="https://img.shields.io/badge/Views-1K%2B-blue?style=flat&logo=linkedin" alt="LinkedIn Profile Views">
 
 My VR project: https://youtu.be/TLWXkF8STxI?si=qFpijlGVDhBqOj5A (VREHABILITAR)
